@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         case Multiply = "*"
         case Subtract = " -"
 //        case Add = "+"
-        case Empty = "Empty"
+//        case Empty = "Empty"
     }
     
     var currentOperation = Operation.Empty
