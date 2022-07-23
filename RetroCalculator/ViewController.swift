@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         case Divide = "/"
         case Multiply = "*"
         case Subtract = " -"
-        case Add = "+"
+//        case Add = "+"
         case Empty = "Empty"
     }
     
